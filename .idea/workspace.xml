@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8f2f745-00a0-4342-9873-3ccce3273d9c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AlgoritmoRadar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recepcionista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch.java" afterDir="false" />
+    <list default="true" id="a8f2f745-00a0-4342-9873-3ccce3273d9c" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/CalculaSalario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recepcionista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recepcionista.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +32,7 @@
   </component>
   <component name="ProjectId" id="2MBqnFVUK5NKrFtUkYX1wrSnrFW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -54,10 +52,18 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AlgoritmoRadar">
+  <component name="RunManager" selected="Application.CalculaSalario">
     <configuration name="AlgoritmoRadar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlgoritmoRadar" />
       <module name="UltimaSchool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculaSalario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculaSalario" />
+      <module name="UltimaSchool" />
+      <option name="PROGRAM_PARAMETERS" value="1000 2000" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,10 +75,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Recepcionista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recepcionista" />
       <module name="UltimaSchool" />
-      <option name="PROGRAM_PARAMETERS" value="10" />
+      <option name="PROGRAM_PARAMETERS" value="abc" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,10 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculaSalario" />
+        <item itemvalue="Application.Recepcionista" />
         <item itemvalue="Application.AlgoritmoRadar" />
         <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -107,10 +114,36 @@
       <workItem from="1677639259694" duration="187000" />
       <workItem from="1677639453219" duration="1657000" />
       <workItem from="1678200580763" duration="3293000" />
+      <workItem from="1678416776141" duration="1033000" />
+      <workItem from="1678720284371" duration="598000" />
+      <workItem from="1678894563017" duration="6675000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1678416990195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678416990195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
