@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8f2f745-00a0-4342-9873-3ccce3273d9c" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/ListaVetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinhaTreeSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MySet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +51,27 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.maddyhome.idea.vim.ui.VimEmulationConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MySet">
-    <configuration name="ContaPalavras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ContaPalavras" />
+  <component name="RunManager" selected="Application.MinhaTreeSet">
+    <configuration name="ExameDirecaoAtM2S1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExameDirecaoAtM2S1" />
       <module name="UltimaSchool" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExameDirecaoAtM2S1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExameDirecaoAtM2S1" />
+    <configuration name="ListaVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListaVetor" />
+      <module name="UltimaSchool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinhaTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinhaTreeSet" />
       <module name="UltimaSchool" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,20 +91,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestaString" />
-      <module name="UltimaSchool" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MySet" />
-        <item itemvalue="Application.ContaPalavras" />
-        <item itemvalue="Application.ExameDirecaoAtM2S1" />
+        <item itemvalue="Application.MinhaTreeSet" />
+        <item itemvalue="Application.ListaVetor" />
         <item itemvalue="Application.TabuadaAtM2S1" />
-        <item itemvalue="Application.TestaString" />
+        <item itemvalue="Application.MySet" />
+        <item itemvalue="Application.ExameDirecaoAtM2S1" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +126,17 @@
       <workItem from="1683593296021" duration="3358000" />
       <workItem from="1683946322856" duration="609000" />
       <workItem from="1684675237065" duration="6677000" />
+      <workItem from="1685023054696" duration="91000" />
+      <workItem from="1685219527433" duration="610000" />
+      <workItem from="1685298723177" duration="225000" />
+      <workItem from="1685511036452" duration="5811000" />
+      <workItem from="1686149122498" duration="22000" />
+      <workItem from="1686149359216" duration="164000" />
+      <workItem from="1686149540046" duration="343000" />
+      <workItem from="1686330227359" duration="2437000" />
+      <workItem from="1686435839339" duration="1585000" />
+      <workItem from="1686582720450" duration="2103000" />
+      <workItem from="1686591756867" duration="651000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1678416990195</created>
@@ -147,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683595296032</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1685023072649</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685023072649</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
