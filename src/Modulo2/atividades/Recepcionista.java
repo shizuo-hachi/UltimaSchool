@@ -1,3 +1,5 @@
+package Modulo2.atividades;
+
 public class Recepcionista {
     public static void main(String[] args) {
         String entrada = args[0];

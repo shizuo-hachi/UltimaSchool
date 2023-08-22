@@ -1,3 +1,5 @@
+package Modulo2.atividades;
+
 public class TabuadaAtM2S1 {
     public static void main(String[] args) {
         //int tabuada = 2;

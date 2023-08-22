@@ -1,3 +1,5 @@
+package Modulo2.atividades;
+
 public class Switch {
     public static void main(String[] args) {
         int dia = Integer.parseInt(args[0]);

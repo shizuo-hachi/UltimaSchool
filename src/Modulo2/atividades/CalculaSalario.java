@@ -1,3 +1,5 @@
+package Modulo2.atividades;
+
 public class CalculaSalario {
     public static void main(String[] args) {
         int limitebonus1 = 1500;

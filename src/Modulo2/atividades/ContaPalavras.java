@@ -1,3 +1,5 @@
+package Modulo2.atividades;
+
 public class ContaPalavras {
     public static void main(String[] args) {
         String frase = "The quick brown fox jumps over the lazy dog";

@@ -1,3 +1,5 @@
+package Modulo2.atividades;
+
 import java.util.TreeSet;
 
 public class MinhaTreeSet {

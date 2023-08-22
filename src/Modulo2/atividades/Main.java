@@ -1,3 +1,5 @@
+package Modulo2.atividades;
+
 public class Main {
     public static void main(String[] args) {
         int resposta =  Integer.parseInt(args[0]);

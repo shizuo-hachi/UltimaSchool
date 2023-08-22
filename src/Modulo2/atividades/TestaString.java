@@ -1,3 +1,5 @@
+package Modulo2.atividades;
+
 public class TestaString {
     public static void main(String[] args) {
         String nomeProfessor = new String("André Quadros");

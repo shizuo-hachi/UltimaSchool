@@ -5,9 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8f2f745-00a0-4342-9873-3ccce3273d9c" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/ListaVetor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinhaTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo2/Banco/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo2/Banco/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo2/Banco/TestaBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo2/atividades/MeuHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo3/Distancia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo3/Selecao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo3/Uaiouloop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlgoritmoRadar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo2/atividades/AlgoritmoRadar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculaSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo2/atividades/CalculaSalario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContaPalavras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo2/atividades/ContaPalavras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExameDirecaoAtM2S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo2/atividades/ExameDirecaoAtM2S1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo2/atividades/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaVetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo2/atividades/ArrayLista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo2/atividades/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MeuHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinhaTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo2/atividades/MinhaTreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo2/atividades/MySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recepcionista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo2/atividades/Recepcionista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo2/atividades/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TabuadaAtM2S1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo2/atividades/TabuadaAtM2S1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestaString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo2/atividades/TestaString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +50,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2MBqnFVUK5NKrFtUkYX1wrSnrFW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -55,49 +79,79 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MinhaTreeSet">
-    <configuration name="ExameDirecaoAtM2S1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExameDirecaoAtM2S1" />
+  <component name="RunManager" selected="Application.CalculaIMC">
+    <configuration name="CalculaIMC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo3.CalculaIMC" />
       <module name="UltimaSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modulo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListaVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListaVetor" />
+    <configuration name="Distancia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo3.Distancia" />
       <module name="UltimaSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modulo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinhaTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinhaTreeSet" />
+    <configuration name="Selecao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo3.Selecao" />
       <module name="UltimaSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modulo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MySet" />
+    <configuration name="TestaBanco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo2.Banco.TestaBanco" />
       <module name="UltimaSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modulo2.Banco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TabuadaAtM2S1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TabuadaAtM2S1" />
+    <configuration name="Uaiouloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo3.Uaiouloop" />
       <module name="UltimaSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modulo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinhaTreeSet" />
-        <item itemvalue="Application.ListaVetor" />
-        <item itemvalue="Application.TabuadaAtM2S1" />
-        <item itemvalue="Application.MySet" />
-        <item itemvalue="Application.ExameDirecaoAtM2S1" />
+        <item itemvalue="Application.CalculaIMC" />
+        <item itemvalue="Application.Uaiouloop" />
+        <item itemvalue="Application.Selecao" />
+        <item itemvalue="Application.Distancia" />
+        <item itemvalue="Application.TestaBanco" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +191,15 @@
       <workItem from="1686435839339" duration="1585000" />
       <workItem from="1686582720450" duration="2103000" />
       <workItem from="1686591756867" duration="651000" />
+      <workItem from="1686592865931" duration="5441000" />
+      <workItem from="1686672595126" duration="5494000" />
+      <workItem from="1686769570633" duration="2421000" />
+      <workItem from="1687013289300" duration="3823000" />
+      <workItem from="1687201126228" duration="1205000" />
+      <workItem from="1692370677112" duration="243000" />
+      <workItem from="1692370930863" duration="2570000" />
+      <workItem from="1692449689023" duration="3702000" />
+      <workItem from="1692719994931" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1678416990195</created>
@@ -166,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685023072649</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1686595113899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686595113899</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

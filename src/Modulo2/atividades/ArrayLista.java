@@ -1,13 +1,15 @@
+package Modulo2.atividades;
+
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class ListaVetor {
+public class ArrayLista {
     public static void main(String[] args) {
-        ArrayList<String>  inventario= new ArrayList<>();
+        ArrayList<String> inventario = new ArrayList<>();
 
         inventario.add("Poção de Cura");
         inventario.add("Chave do Tesouro");
-        inventario.add( "Adaga Envenenada");
+        inventario.add("Adaga Envenenada");
         inventario.add("Pergaminho");
         inventario.add("Amuleto de Proteção");
         inventario.add("Pergaminho");
@@ -22,7 +24,5 @@ public class ListaVetor {
         System.out.println(inventario);
         inventario.clear();
         System.out.println(inventario);
-
-
     }
 }
