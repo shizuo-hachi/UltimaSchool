@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8f2f745-00a0-4342-9873-3ccce3273d9c" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/Modulo3/Geometria/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulo3/Geometria/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulo3/Geometria/Quadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulo3/Geometria/Retangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulo3/Geometria/TestaFiguras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulo3/Geometria/Triangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a8f2f745-00a0-4342-9873-3ccce3273d9c" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +185,7 @@
       <workItem from="1693321880900" duration="1318000" />
       <workItem from="1694528163102" duration="729000" />
       <workItem from="1694529112954" duration="1461000" />
-      <workItem from="1695433660164" duration="3104000" />
+      <workItem from="1695433660164" duration="3444000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1678416990195</created>
@@ -278,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693321900170</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <option name="closed" value="true" />
+      <created>1695437477033</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1695437477034</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
