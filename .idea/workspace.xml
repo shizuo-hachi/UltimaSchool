@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8f2f745-00a0-4342-9873-3ccce3273d9c" name="Changes" comment="update" />
+    <list default="true" id="a8f2f745-00a0-4342-9873-3ccce3273d9c" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/Modulo3/Geometria/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo3/Geometria/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo3/Geometria/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo3/Geometria/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo3/Geometria/TestaFiguras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo3/Geometria/Triangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +68,7 @@
       <recent name="Modulo3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Cadastro1">
+  <component name="RunManager" selected="Application.TestaFiguras">
     <configuration name="Cadastro1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Modulo3.Cadastro1" />
       <module name="UltimaSchool" />
@@ -100,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selecao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modulo3.Selecao" />
+    <configuration name="TestaFiguras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo3.Geometria.TestaFiguras" />
       <module name="UltimaSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modulo3.*" />
+          <option name="PATTERN" value="Modulo3.Geometria.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaFiguras" />
         <item itemvalue="Application.Cadastro1" />
         <item itemvalue="Application.CalculaIMCClassifc" />
         <item itemvalue="Application.CalculaIMC" />
         <item itemvalue="Application.Uaiouloop" />
-        <item itemvalue="Application.Selecao" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +190,10 @@
       <workItem from="1692449689023" duration="3702000" />
       <workItem from="1692719994931" duration="4764000" />
       <workItem from="1693225685168" duration="2350000" />
+      <workItem from="1693321880900" duration="1318000" />
+      <workItem from="1694528163102" duration="729000" />
+      <workItem from="1694529112954" duration="1461000" />
+      <workItem from="1695433660164" duration="3104000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1678416990195</created>
@@ -258,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693259870346</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update">
+      <option name="closed" value="true" />
+      <created>1693321900170</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693321900170</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
